@@ -1,0 +1,297 @@
+.fira-sanse-normal {
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+  .sing-button{
+      background-color: white;
+      color: #006A50;
+      padding: 15px 30px;
+      border-radius: 8px;
+      font-weight: 300;
+      font-size: 18px;
+  }
+  
+  nav{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin: 24px 160px;
+  }
+  
+  
+  .banner{
+      margin-top: 20px;
+      display: flex;
+  
+  }
+  .banner-greading{
+      font-weight: 400;
+      font-size: 24px;
+      color: #0E0E0E;
+  }
+  
+  .banner-title{
+      font-weight: bold;
+      font-size: 56px;
+  }
+  .btn-1{
+      font-weight: 300;
+      font-size: 18px;
+      color: #FFFFFF;
+      background-color: #006A50;
+      padding: 17px 34px;
+      border-radius: 8px;
+  }
+  .banner-container{
+      max-width: 622px;
+  }
+  
+  .banner{
+      justify-content: space-between;
+      margin: 0 160px;
+      background-color: #C6E4D6;
+      padding: 60px 117px;
+      border-radius: 24px;
+  }
+  
+  .vision-container{
+      display: flex;
+      gap: 24px;
+  }
+  
+  .div1btn{
+      background-color: #5490F5;
+      color: #FFFFFF;
+      font-weight: 300;
+      font-size: 16px;
+      padding: 11px 20px;
+      border-radius: 8px;
+  }
+  .div2btn{
+      background-color: #09A15C ;
+      color: #FFFFFF ;
+      font-weight: 300;
+      font-size: 16px;
+      padding: 11px 20px;
+      border-radius: 8px;
+  
+  }
+  .div3btn{
+      background-color: #FFC239 ;
+      color: #FFFFFF ;
+      font-weight: 300;
+      font-size: 16px;
+      padding: 11px 20px;
+      border-radius: 8px;
+  
+  }
+  /* section */
+  .secondary-bg{
+      background-color: #F1F1F3;
+  }
+  
+  .vision{
+      margin: 0 160px;
+  }
+  
+  .vision-title{
+      font-weight: bold;
+      font-size: 40px;
+      color: #0E0E0E;
+  }
+  .vision-description{
+      color: #0E0E0E;
+      font-weight: 300;
+      font-size: 16px;
+  
+  }
+  .DGM1{
+      background-color: #81B4FC;
+      padding: 32px;
+      border-radius: 16px;
+  }
+  .DGM-title{
+      
+      font-weight: bold;
+      font-size: 20px;
+  }
+  .DGM-description{
+      font-weight: 300;
+      font-size: 16px;
+  }
+  .DGM2{
+      background-color: #C6E4D6;
+      padding: 32px;
+      border-radius: 16px;
+  }
+  .DGM3{
+      background-color: #F7EBCF;
+      padding: 32px;
+      border-radius: 16px;
+  }
+  .yunus{
+      background-color: #FFFFFF;
+      border-radius: 16px;
+      padding: 48px 24px;
+      margin-top: 32px;
+      background-image: url('../assets/quote-bg.png');
+      background-repeat: no-repeat;
+  }
+  .dr{
+      font-weight: 600;
+      font-size: 20px;
+      color: #0E0E0E;
+  
+  }
+  
+  /* satellite */
+  
+  .news{
+      margin: 80px 160px;
+  }
+  .new-satellite{
+      display: flex;
+      padding: 48px;
+  
+  }
+  .satellite-pic{
+      margin-right: 32px;
+  }
+  .satelite{
+      border-radius: 24px;
+  }
+  .satellite-btn{
+      background-color: #006A50 ;
+      color: #FFFFFF ;
+      font-weight: 300;
+      font-size: 16px;
+      padding: 11px 20px;
+      border-radius: 8px;
+  }
+  .satellite-container{
+      border-radius: 24px;
+      background-color: #FFFFFF;
+  }
+  .satellite-title{
+      font-weight: bold;
+      font-size: 32px;
+      color: rgba(14, 14, 14, 0.8);
+  }
+  .satellite-date{
+      color: rgba(14, 14, 14, 0.7);
+  }
+  .satellite-description{
+      font-weight: 300;
+      font-size: 16px;
+      color: rgba(14, 14, 14, 0.7);
+  }
+  /* donate amount */
+  
+  .donate-now{
+      text-align: center;
+  }
+  .donate{
+      margin: 0 160px;
+      
+  }
+  
+  .btn-container{
+      display: flex;
+      justify-content: center;
+  }
+  .btn-amount{
+      padding: 40px;
+  }
+  
+  .amount{
+      padding: 40px;
+      font-weight: bold;
+      font-size: 40px;
+      border-radius: 16px;
+      color: #2a2929;
+      background-color: #FFFFFF;
+  }
+  .amount-2{
+      padding: 40px;
+      font-weight: bold;
+      font-size: 40px;
+      border-radius: 16px;
+      color: #2a2929;
+      background-color: #C6E4D6;
+  }
+  .input{
+      background-color: #FFFFFF;
+      color: rgba(14, 14, 14, 0.3);
+      margin: 0 104px;
+      padding: 20px 420px;
+      font-weight: 300;
+      font-size: 20px;
+  }
+  
+  .donate-description{
+      margin: 0 180px;
+  }
+  .done{
+      margin-top: 32px;
+      font-weight: 600;
+      font-size: 18px;
+      padding: 17px 34px;
+      border-radius: 8px;
+      background-color: #006A50;
+      color: #FFFFFF;
+  }
+  .subscribe{
+      text-align: center;
+      background-color: #C6E4D6;
+      border-radius: 24px;
+      margin: 80px 160px;
+      padding: 80px 265px;
+      
+  }
+  .sub-title{
+      font-weight: bold;
+      font-size: 40px;
+      color: #0E0E0E;
+  }
+  .sub-description{
+      font-weight: 300 ;
+      font-size: 16px;
+      color: rgba(14, 14, 14, 0.7);
+  }
+  .email-sub{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      
+  }
+  .email{
+      background-color: #FFFFFF;
+      border-start-start-radius: 8px;
+      border-bottom-left-radius: 8px;
+  }
+  .placeholder{
+      color: rgba(14, 14, 14, 0.3);
+      font-weight: 300;
+      font-size: 16px;
+      padding: 18px 200px 18px 40px;
+      
+  }
+  
+  .sub-descrip{
+      padding-bottom: 80px;
+  }
+  /* footer part */
+  .footer-title{
+      color: #0E0E0E;
+      font-weight: bold;
+      font-size: 32px;
+  }
+  .center{
+      text-align: center;
+  }
+  .icon{
+      padding: 23px;
+  }
